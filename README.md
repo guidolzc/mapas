@@ -1,5 +1,5 @@
 # mapas
-Geo  Location , Estaciones de Servicio , sus Presios 
+Geo  Location , Estaciones de Servicio , sus Precios 
 
 1- mostramos todo el mapa 
 
